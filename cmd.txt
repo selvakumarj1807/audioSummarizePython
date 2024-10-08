@@ -1,0 +1,11 @@
+1. pip install nltk sumy scikit-learn
+
+2. pip install spacy
+
+3. python -m spacy download en_core_web_sm
+
+4. pip install pydub SpeechRecognition transformers mysqlclient
+
+5. pip install gtts
+
+6. https://ffmpeg.org/download.html
